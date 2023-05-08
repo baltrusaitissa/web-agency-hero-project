@@ -5,8 +5,7 @@ body {
 
 #hero {
     background-image: url("img/faded-office.png");
-    background-size: cover;
-    
+    background-size: cover; 
 }
 
 h1 {
@@ -21,8 +20,6 @@ p {
     display: block;
     margin-right: 700px;
     padding: 50px 30px 250px 50px;
-    
-    /* border: solid red 3px; */
 }
 
 #underline {
